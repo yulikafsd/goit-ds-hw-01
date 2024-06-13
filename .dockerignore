@@ -2,6 +2,7 @@ goit_ds_hw_01
 __pycache__
 tests
 .gitignore
+.git
 addressbook.pkl
 poetry.lock
 pyproject.toml

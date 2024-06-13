@@ -6,7 +6,7 @@ authors = ["Julia Zahorovska <ju.zagorovsky@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "3.12.2"
+python = "^3.12"
 colorama = "0.4.6"
 
 
